@@ -1,4 +1,4 @@
-# Netflix Content Strategy: Exploratory Data Analysis 🎬
+# Netflix Content Strategy: Exploratory Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-150458.svg)
